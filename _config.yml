@@ -3,3 +3,55 @@ title: Caleb Abraham
 logo: /images/TrutfetterPhysicsIllustration.jpeg
 Description: Proof of the earths rotundity
 markdown: kramdown
+# Site Settings
+title: "Caleb Abraham - Academic Website"
+name: "Caleb Abraham"
+description: "Personal academic website for Caleb Abraham"
+
+# URL and Base Settings
+url: "https://cahelvetiorum.github.io"
+baseurl: "/Caleb-Abraham"
+
+# Author Information
+author:
+  name: "Caleb Abraham"
+  bio: "Research Scientist | Data Enthusiast"
+  location: "Your Location"
+  email: "caleb95abraham@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@example.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/cahelvetiorum"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/your-profile"
+
+# Site Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Main research"
+    url: "/_pages/mainresearch/"
+  - title: "Side projects"
+    url: "/_pages/sideprojects/"
+  - title: "CV"
+    url: "/_pages/cv/"
+  - title: "Past projects"
+    url: "/_pages/pastprojects/"
+
+# Build Settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "default"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
