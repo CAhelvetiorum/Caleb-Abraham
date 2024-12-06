@@ -3,3 +3,17 @@ title: Caleb Abraham
 logo: /images/TrutfetterPhysicsIllustration.jpeg
 Description: Proof of the earths rotundity
 markdown: kramdown
+
+# Navigation
+navigation:
+  - title: Home
+    url: /Caleb-Abraham
+  - title: CV
+    url: /Caleb-Abraham/CV.md
+  - title: Main research project
+    url: /Caleb-Abraham/mainresearch.md
+  - title: Past projects
+    url: /Caleb-Abraham/pastprojects.md
+  - title: SIde projects
+    url: /Caleb-Abraham/sideprojects.md
+  # Add other headers as needed
