@@ -6,7 +6,7 @@ markdown: kramdown
 
 # Navigation
 navigation:
-  - title: Home
+  - title: Home page
     url: /Caleb-Abraham
   - title: CV
     url: /Caleb-Abraham/CV.md
