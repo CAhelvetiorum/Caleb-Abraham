@@ -9,11 +9,11 @@ navigation:
   - title: Home page
     url: /Caleb-Abraham
   - title: CV
-    url: /Caleb-Abraham/cv.md
+    url: /Caleb-Abraham/_pages/cv.md
   - title: Main research project
-    url: /Caleb-Abraham/mainresearch.md
+    url: /Caleb-Abraham/_pages/mainresearch.md
   - title: Past projects
-    url: /Caleb-Abraham/pastprojects.md
+    url: /Caleb-Abraham/_pages/pastprojects.md
   - title: SIde projects
-    url: /Caleb-Abraham/sideprojects.md
+    url: /Caleb-Abraham/_pages/sideprojects.md
   # Add other headers as needed
