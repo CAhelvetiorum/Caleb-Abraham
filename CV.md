@@ -48,31 +48,67 @@ blockquote {
 
 ## Institutional responsabilities
 
-November 2024 – May 2025 | Member of a committee for the recruitment of a new lecturer (History Department, Faculty of Letters, UNIL).
-
-August 2023 – | Member of the Faculty Council (Faculty of Letters, UNIL).
-
-February 2022/ February 2024/ | Auxiliary member of committees for the election of new professors (History Department, Faculty of Letters, UNIL).
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+|               |               |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+| November 2024 – May 2025  | Member of a committee for the recruitment of a new lecturer (History Department, Faculty of Letters, UNIL). |
+|  August 2023 – | Member of the Faculty Council (Faculty of Letters, UNIL). |
+|  February 2022/ February 2024/ | Auxiliary member of committees for the election of new professors (History Department, Faculty of Letters, UNIL).
+ |
 
 ## Teaching
 
-Autumn 2022 – Spring 2023 | « Histoire moderne. De l’histoire sacrée à l’histoire nationale. Historiens vaudois, 1700-1850 » (with Prof. Béla Kapossy).
-
-Autumn 2021 | « Histoire médiévale et histoire moderne. De part et d’autre de la Réforme : la vie religieuse dans le Pays de Vaud (1450-1550) » (with Prof. Bernard Andenmatten and Karine Crousaz).
-
-Spring 2021 | « Histoire moderne. Le sommeil à l’époque moderne » (with Karine Crousaz).
-
-Autumn 2020 – | « Champs et pratiques de l’Histoire » (with Malik Mazbouri, François Vallotton).
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+|               |               |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+|  Autumn 2022 – Spring 2023 | « Histoire moderne. De l’histoire sacrée à l’histoire nationale. Historiens vaudois, 1700-1850 » (with Prof. Béla Kapossy). |
+| Autumn 2021  | « Histoire médiévale et histoire moderne. De part et d’autre de la Réforme : la vie religieuse dans le Pays de Vaud (1450-1550) » (with Prof. Bernard Andenmatten and Karine Crousaz).
+ |
+| Spring 2021   | « Histoire moderne. Le sommeil à l’époque moderne » (with Karine Crousaz). |
+|  Autumn 2020 – | « Champs et pratiques de l’Histoire » (with Malik Mazbouri, François Vallotton). |
 
 ## Academic affiliations
 
-June 2022 – | Print Exchanges Network.
-
-Sept. 2020 – | Société académique vaudoise.
-
-Sept. 2020 – | Editor of Post-Reformation Digital Library.
-
-May 2017 – | Association Pierre Viret, member of the committee since 2022.
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+|               |               |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+| June 2022 –  | Print Exchanges Network. |
+| Sept. 2020 –  | Société académique vaudoise. |
+| Sept. 2020 –  | Editor of Post-Reformation Digital Library. |
+| May 2017 –  | Association Pierre Viret, member of the committee since 2022. |
 
 ## Conference organization
 
@@ -85,13 +121,24 @@ With Matteo Colombo (UNIGE), Baptiste Werly (UNIGE), Ueli Zahnd (UNIGE), and Flo
 
 ## Prizes and scholaships
 
-Jan. 2024 – June 2024 | Mobi.Doc scholarship (UNIL) to spend 6 months in Tübingen and Stuttgart for archival research: *40’000 CHF*.
-
-Sept. 2023 – Oct. 2023 | Bourse Regard, Institut d’histoire de la Réformation, Geneva: *800 CHF*.
-
-June 2022 – Jul. 2022 | Scholarship to study Ancient Greek at Academia Vivarium Novum: *800 €*.
-
-June 2021 | Prix de la Ville de Lausanne, for my MA thesis: *6'000 CHF*.
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+|               |               |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+|  Jan. 2024 – June 2024 | Mobi.Doc scholarship (UNIL) to spend 6 months in Tübingen and Stuttgart for archival research: *40’000 CHF*. |
+| Sept. 2023 – Oct. 2023  | Bourse Regard, Institut d’histoire de la Réformation, Geneva: *800 CHF*. |
+| June 2022 – Jul. 2022  | Scholarship to study Ancient Greek at Academia Vivarium Novum: *800 €*.  |
+| June 2021  | Prix de la Ville de Lausanne, for my MA thesis: *6'000 CHF*. |
 
 ## Skills
 
