@@ -1,5 +1,6 @@
-<img src="https://raw.githubusercontent.com/CAhelvetiorum/Caleb-Abraham/gh-pages/images/Tutfetterimg1.png" width="600">
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CAhelvetiorum/Caleb-Abraham/gh-pages/images/Tutfetterimg1.png" width="630">
+</p>
 I am a Swiss academic historian of the late medieval and early modern periods. My fields of expertise are science (medicine and physics), religion (practice, materiality, theology), and universities. I have combined various approaches, such as that of intellectual history, cultural history, micro-history, and biography.
 
 This website presents my past and present areas of inquiry.
