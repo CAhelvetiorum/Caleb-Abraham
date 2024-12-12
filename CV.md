@@ -64,8 +64,7 @@ blockquote {
 | ---           | ---           |                                                                                                                                                   
 | November 2024 – May 2025  | Member of a committee for the recruitment of a new lecturer (History Department, Faculty of Letters, UNIL). |
 |  August 2023 – | Member of the Faculty Council (Faculty of Letters, UNIL). |
-|  February 2022/ February 2024/ | Auxiliary member of committees for the election of new professors (History Department, Faculty of Letters, UNIL).
- |
+|  February 2022/ February 2024/ | Auxiliary member of committees for the election of new professors (History Department, Faculty of Letters, UNIL).|
 
 ## Teaching
 
