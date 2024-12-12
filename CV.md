@@ -13,9 +13,7 @@ blockquote {
     border-left: none;
     padding-left: 10px;
 }
-</style>
-|               |               |                                                                                                                                                   
-| ---           | ---           |                                                                                                                                                   
+</style>                                                                                                                                                  
 | March 2024    | Spring school (book history) at the University of Tübingen. |
 | June 2022 / June 2023    | Summer schools (intellectual history) at the Institut d’histoire de la Réformation (IHR), University of Geneva. |
 | Sept. 2020 –    | Doctoral studies in Early Modern History (dir. Karine Crousaz), the History Department, Faculty of Letters, University of Lausanne (UNIL). |
@@ -23,7 +21,6 @@ blockquote {
 | Sept. 2015 – June 2018    | Bachelor of Letters (UNIL): History, English literature. |   
 
 ## Employment
-
 <style>
 table {
     border-collapse: collapse;
@@ -47,7 +44,6 @@ blockquote {
 | Feb. 2018 – June 2018 / Feb. 2019 – June 2019       | Student assistant for humanities courses at the École polytechnique fédérale de Lausanne, for Prof. Thomas David (*Enjeux globaux de la santé*).          |  
 
 ## Institutional responsabilities
-
 <style>
 table {
     border-collapse: collapse;
@@ -67,7 +63,6 @@ blockquote {
 |  February 2022/ February 2024/ | Auxiliary member of committees for the election of new professors (History Department, Faculty of Letters, UNIL).|
 
 ## Teaching
-
 <style>
 table {
     border-collapse: collapse;
@@ -88,7 +83,6 @@ blockquote {
 |  Autumn 2020 – | « Champs et pratiques de l’Histoire » (with Malik Mazbouri, François Vallotton). |
 
 ## Academic affiliations
-
 <style>
 table {
     border-collapse: collapse;
@@ -118,7 +112,6 @@ Guests: Bruce Gordon (Yale) and Jérémie Foa (Aix-Marseille).
 With Matteo Colombo (UNIGE), Baptiste Werly (UNIGE), Ueli Zahnd (UNIGE), and Floriane Goy (UNIGE).
 
 ## Prizes and scholaships
-
 <style>
 table {
     border-collapse: collapse;
