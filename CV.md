@@ -84,8 +84,7 @@ blockquote {
 |               |               |                                                                                                                                                   
 | ---           | ---           |                                                                                                                                                   
 |  Autumn 2022 – Spring 2023 | « Histoire moderne. De l’histoire sacrée à l’histoire nationale. Historiens vaudois, 1700-1850 » (with Prof. Béla Kapossy). |
-| Autumn 2021  | « Histoire médiévale et histoire moderne. De part et d’autre de la Réforme : la vie religieuse dans le Pays de Vaud (1450-1550) » (with Prof. Bernard Andenmatten and Karine Crousaz).
- |
+| Autumn 2021  | « Histoire médiévale et histoire moderne. De part et d’autre de la Réforme : la vie religieuse dans le Pays de Vaud (1450-1550) » (with Prof. Bernard Andenmatten and Karine Crousaz).|
 | Spring 2021   | « Histoire moderne. Le sommeil à l’époque moderne » (with Karine Crousaz). |
 |  Autumn 2020 – | « Champs et pratiques de l’Histoire » (with Malik Mazbouri, François Vallotton). |
 
