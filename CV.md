@@ -104,13 +104,22 @@ blockquote {
 | May 2017 –  | Association Pierre Viret, member of the committee since 2022. |
 
 ## Conference organization
-
-15-16 May 2023. CUSO conference at the University of Geneva (UNIGE): « [Biographical Approaches in History (of Christianity): Sources, Methods, Challenges](https://www.unige.ch/ihr/fr/accueil/evenements-passes/2022-2023/cuso-workshop-15-16-mai-2023/) » 
-With Seraina Berger (UNIGE) and Ueli Zahnd (UNIGE).
-Guests: Bruce Gordon (Yale) and Jérémie Foa (Aix-Marseille).
-
-3-5 December 2024. CUSO Hackathon at UNIL: « Hackathon Digital Sources » 
-With Matteo Colombo (UNIGE), Baptiste Werly (UNIGE), Ueli Zahnd (UNIGE), and Floriane Goy (UNIGE).
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>                                                                                                                                                  
+|      |       | 
+| ------------ | ------------- | 
+| 15-16 May 2023.    | CUSO conference at the University of Geneva (UNIGE): « [Biographical Approaches in History (of Christianity): Sources, Methods, Challenges](https://www.unige.ch/ihr/fr/accueil/evenements-passes/2022-2023/cuso-workshop-15-16-mai-2023/) » With Seraina Berger (UNIGE) and Ueli Zahnd (UNIGE). Guests: Bruce Gordon (Yale) and Jérémie Foa (Aix-Marseille). |
+| 3-5 December 2024.    | CUSO Hackathon at UNIL: « Hackathon Digital Sources » With Matteo Colombo (UNIGE), Baptiste Werly (UNIGE), Ueli Zahnd (UNIGE), and Floriane Goy (UNIGE). |
 
 ## Prizes and scholaships
 <style>
