@@ -1,13 +1,13 @@
 # About
 
-This website was created on the occasion of the international conference celebrating the centenary of the creation of the International Committee on Intellectual Cooperation (1922-2022). In addition to accompanying the conference, it aims to gather and promote resources on intellectual cooperation (list of completed or ongoing projects, bibliography of recent publications, etc.). It is deliberately very simple in its structure in order to be easy to archive and to remain a platform and not to replace all existing or future initiatives.
+This website was created present my research and connect with others.
 
 ## Contact
 
-Please write to **info[at]intellectualcooperation[dot]org** or [GrandjeanMartin](https://twitter.com/GrandjeanMartin) on Twitter.
+Please write to **caleb95abraham[at]gmail[dot]com** or [CA_Helvetiorum](https://x.com/CA_Helvetiorum) on X.
 
 ## Credits
 
-* Website: Martin Grandjean 2021 CC-BY-SA (code on [Github](https://github.com/grandjeanmartin/intellectualcooperation/tree/gh-pages), archived on Zenodo with DOI [10.5281/zenodo.4583783](https://doi.org/10.5281/zenodo.4583783)).
+* Website: Caleb Abraham 2024 CC-BY-SA (code on [Github](https://github.com/CAhelvetiorum/Caleb-Abraham/tree/gh-pages), archived on Zenodo with DOI [](https://).
 
-* Pictures: League of Nations Archives (UNOG Library, Geneva), pictures CM075, P0049, P0095, P0270, P0429.
+* Pictures: asdf.
