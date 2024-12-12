@@ -1,5 +1,26 @@
 # Curiculum vitae
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
+
+|               |               |                                                                                                                                                   
+| ---           | ---           |                                                                                                                                                   
+| March 2024    | Spring school (book history) at the University of Tübingen. |
+| June 2022 / June 2023    | Summer schools (intellectual history) at the Institut d’histoire de la Réformation (IHR), University of Geneva. |
+| Sept. 2020 –    | Doctoral studies in Early Modern History (dir. Karine Crousaz), the History Department, Faculty of Letters, University of Lausanne (UNIL). |
+| Sept. 2018 – June 2020    | Master of Letters (UNIL): History (major), English literature (minor); specialization in ‘Book history and critical edition’; MA thesis on the Lausanne Academy library in the 16th century (dir. Karine Crousaz). |   
+| Sept. 2015 – June 2018    | Bachelor of Letters (UNIL): History, English literature. |   
+
 ## Education
 
 March 2024 | Spring school (book history) at the University of Tübingen.
