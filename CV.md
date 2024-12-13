@@ -124,8 +124,9 @@ blockquote {
 </style>                                                                                                                                                  
 |      |       | 
 | ------------ | ------------- | 
-| 15-16 May 2023.    | CUSO conference at the University of Geneva (UNIGE): « [Biographical Approaches in History (of Christianity): Sources, Methods, Challenges](https://www.unige.ch/ihr/fr/accueil/evenements-passes/2022-2023/cuso-workshop-15-16-mai-2023/) » With Seraina Berger (UNIGE) and Ueli Zahnd (UNIGE). Guests: Bruce Gordon (Yale) and Jérémie Foa (Aix-Marseille). |
+| February  2026.    | CUSO conference at UNIL on accounting from the Middle Ages to the 20th century. Title: TBA. With Samuel Goy (UNIL) and Marie Bron (UNIL). Guests: TBA. |
 | 3-5 December 2024.    | CUSO Hackathon at UNIL: « Hackathon Digital Sources » With Matteo Colombo (UNIGE), Baptiste Werly (UNIGE), Ueli Zahnd (UNIGE), and Floriane Goy (UNIGE). |
+| 15-16 May 2023.    | CUSO conference at the University of Geneva (UNIGE): « [Biographical Approaches in History (of Christianity): Sources, Methods, Challenges](https://www.unige.ch/ihr/fr/accueil/evenements-passes/2022-2023/cuso-workshop-15-16-mai-2023/) » With Seraina Berger (UNIGE) and Ueli Zahnd (UNIGE). Guests: Bruce Gordon (Yale) and Jérémie Foa (Aix-Marseille). |
 
 -------
 ## Prizes and scholaships
