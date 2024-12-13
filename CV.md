@@ -105,7 +105,7 @@ blockquote {
 | ---           | ---           |                                                                                                                                                   
 | June 2022 –  | Print Exchanges Network. |
 | Sept. 2020 –  | Société académique vaudoise. |
-| Sept. 2020 –  | Editor of Post-Reformation Digital Library. |
+| Sept. 2020 –  | Editor of [Post-Reformation Digital Library](https://www.prdl.org/). |
 | May 2017 –  | Association Pierre Viret, member of the committee since 2022. |
 
 -------
