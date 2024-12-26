@@ -41,7 +41,7 @@ blockquote {
 | Jan. 2024 – June 2024 |  Mobi.Doc scholarship (UNIL), 6 months spent in Germany (Tübingen and Stuttgart) for archival research.   | 
 |   Sept. 2020 –   |  Doctoral assistant in Early Modern History (UNIL).   |  
 |     Feb. 2020 – May 2020   |  Internship at the old/rare books departments of the  Bibliothèque cantonale universitaire de Lausanne (BCUL), with Silvio Corsini: cataloging of all the incunables.         |  
-| Sept. 2019 – Dec. 2019       | Student assistant for the History Department (UNIL), for Prof. Bernard Andenmatten: editorial work on volume 58 of the *Cahiers Lausannois d’Histoire Médiévale*.          |  
+| Sept. 2019 – Dec. 2019       | Student assistant for the History Department (UNIL), for Prof. Bernard Andenmatten: editorial work on [volume 58](https://www.unil.ch/hist/home/menuinst/recherche/publications/cahiers-lausannois-dhistoire/volumes.html#2020) of the *Cahiers Lausannois d’Histoire Médiévale*.          |  
 | Feb. 2019 – June 2019       | Student assistant for the English Department (UNIL), for Prof. Rory Critten: helping students for essay writing in medieval English and modern literature.          |  
 | Sept. 2018 – Feb. 2020       | Student job, library shelving (BCUL).          |  
 | Feb. 2018 – June 2018 / Feb. 2019 – June 2019       | Student assistant for humanities courses at the École polytechnique fédérale de Lausanne, for Prof. Thomas David (*Enjeux globaux de la santé*).          |  
