@@ -10,5 +10,7 @@ ABRAHAM Caleb, **« The Library of Lausanne Academy in the 16th Century: The The
 
 # Other
 
-ABRAHAM Caleb, ***Catalogue des incunables conservés à la Bibliothpque Cantonale Universitaire de Lausanne***, ***2020***, 209 pp. Open Access: [academia.edu](
+ABRAHAM Caleb, ***Catalogue des incunables conservés à la Bibliothèque Cantonale Universitaire de Lausanne***, ***2020***, 209 pp. Open Access: [academia.edu](
 https://www.academia.edu/50838953/Catalogue_des_incunables_conserv%C3%A9s_%C3%A0_la_Biblioth%C3%A8que_Cantonale_Universitaire_de_Lausanne?source=swp_share)
+
+ABRAHAM Caleb, ***La Bibliothèque de l'Académie de Lausanne au XVIe siècle***, ***2020***, 254 pp. Open Access: [https://serval.unil.ch/fr/notice/serval:BIB_S_29570](https://serval.unil.ch/fr/notice/serval:BIB_S_29570)
