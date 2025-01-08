@@ -1,2 +1,2 @@
-# People
+# Project 3
 
