@@ -1,6 +1,6 @@
 # Articles
 
-ABRAHAM Caleb, **« Stone Altars, Wooden Tables, Silver Chalices, Unleavened Hosts, and Plain Bread: The Long Reformation of the Eucharist’s Materiality in the Pays de Vaud (1400–1600) »**, *Religions*, 15 (9), ***2024***, pp. 1-16. Open Access: [https://serval.unil.ch/en/notice/serval:BIB_D10F09AF997E](https://serval.unil.ch/en/notice/serval:BIB_D10F09AF997E)
+ABRAHAM Caleb, **« Stone Altars, Wooden Tables, Silver Chalices, Unleavened Hosts, and Plain Bread: The Long Reformation of the Eucharist’s Materiality in the Pays de Vaud (1400–1600) »**, *Religions*, 15 (9), ***2024***, 1140, 16 pp. Open Access: [https://serval.unil.ch/en/notice/serval:BIB_D10F09AF997E](https://serval.unil.ch/en/notice/serval:BIB_D10F09AF997E)
 
 ABRAHAM Caleb, **« Le sommeil dans les textes de théologie pratique des Puritains anglais du 17e siècle »**, in : Bernard ANDENMATTEN and Karine CROUSAZ (Dirs.), [*Le sommeil. Théories, représentations et pratiques (Moyen Âge et Époque Moderne)*](https://www.mirabileweb.it/edgalluzzo/miscellanee/m/1322), Firenze : Editzioni del Galluzzo, (Collection Micrologus), ***2024***, pp. 143-168. Open Access: [https://serval.unil.ch/en/notice/serval:BIB_FB83424ADB20](https://serval.unil.ch/en/notice/serval:BIB_FB83424ADB20)
 
