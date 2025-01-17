@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="tufte.css"/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CAhelvetiorum/Caleb-Abraham/gh-pages/images/Tutfetterimg1.png" width="630">
 </p>
