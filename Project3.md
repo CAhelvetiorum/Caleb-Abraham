@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="tufte.css"/>
-# Edition William Gorris' _Scotus pauperum_
+# Edition William Gorris' [_Scotus pauperum_ (1486)](https://bndigital.bnportugal.gov.pt/records/item/70711-scotus-pauperum)
 
 
 # text
