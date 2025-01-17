@@ -4,6 +4,7 @@
 # Table of contents
 1. Dedicatio / Dedicatio
 2. Praefatio / Preface
+3. Prologus / Prologue
 
 # text
 
