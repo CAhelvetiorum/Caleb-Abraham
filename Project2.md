@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="tufte.css"/>
 # Title
 
 ---
