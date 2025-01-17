@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="tufte.css"/>
+
 # Edition of Angelus de Clavasio's _Summa angelica_
 
 
