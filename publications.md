@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="tufte.css"/>
 # Articles
 
 ABRAHAM Caleb, **« Stone Altars, Wooden Tables, Silver Chalices, Unleavened Hosts, and Plain Bread: The Long Reformation of the Eucharist’s Materiality in the Pays de Vaud (1400–1600) »**, *Religions*, 15 (9), ***2024***, 1140, 16 pp. Open Access: [https://serval.unil.ch/en/notice/serval:BIB_D10F09AF997E](https://serval.unil.ch/en/notice/serval:BIB_D10F09AF997E)
