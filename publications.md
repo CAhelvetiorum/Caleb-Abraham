@@ -29,8 +29,8 @@ ABRAHAM Caleb, ***La Bibliothèque de l'Académie de Lausanne au XVIe siècle***
 ABRAHAM Caleb, « **Beautiful Minds Captive in Darkness. Jean Ménard’s (d.
 1570) Use of Scotus and Medieval Scholastic Theologians in Two
 Vernacular Theological Treatises on the Sacrament of the Eucharist** », in:
-ZAHND Ueli, GELLERA Giovanni (Eds.), A Disregarded Past – Medieval
-Scholasticism and Reformed Thought, Basel: Schwabe, **2027**.
+ZAHND Ueli, GELLERA Giovanni (Eds.), *A Disregarded Past – Medieval
+Scholasticism and Reformed Thought*, Basel: Schwabe, **2027**.
 
 ABRAHAM Caleb, « **Theodore Tronchin** », in: KLAUBER Martin (Ed.),
-Geneva Studies in the European Reformations, Basel: Schwabe, **2027**.
+*Geneva Studies in the European Reformations*, Basel: Schwabe, **2027**.
