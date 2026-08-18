@@ -24,7 +24,7 @@ https://www.academia.edu/50838953/Catalogue_des_incunables_conserv%C3%A9s_%C3%A0
 
 ABRAHAM Caleb, ***La Bibliothèque de l'Académie de Lausanne au XVIe siècle***, ***2020***, 254 pp. Open Access: [https://serval.unil.ch/fr/notice/serval:BIB_S_29570](https://serval.unil.ch/fr/notice/serval:BIB_S_29570)
 
-# In Prepatation
+# In Preparation
 
 ABRAHAM Caleb, « **Beautiful Minds Captive in Darkness. Jean Ménard’s (d.
 1570) Use of Scotus and Medieval Scholastic Theologians in Two
