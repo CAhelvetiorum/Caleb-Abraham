@@ -84,8 +84,8 @@ blockquote {
 </style>
 |               |               |                                                                                                                                                   
 | ---           | ---           |                                                                                                                                                   
-|  Autumn 2026 – Spring 2027 | « Histoire médiévale. Religion et société (6e-15e siècles) ». |
-|  Autumn 2026 – Spring 2027 | « Histoire moderne. Les universités à l'époque moderne ». |
+|  Autumn 2026 – Spring 2027 | « Histoire médiévale. Église et société à la fin du Moyen Âge (XIVe-XVe siècles) » = Medieval history. Church and Society at the End of the Middle Ages (14th-15th Centuries). |
+|  Autumn 2026 – Spring 2027 | « Histoire moderne. Les universités au XVIe siècle » = Early Modern History. Universities in the 16th Century. |
 |  Autumn 2025 | « Histoire moderne. Érasme réformateur » (with Karine Crousaz). |
 |  Autumn 2022 – Spring 2023 | « Histoire moderne. De l’histoire sacrée à l’histoire nationale. Historiens vaudois, 1700-1850 » (with Béla Kapossy). |
 | Autumn 2021  | « Histoire médiévale et histoire moderne. De part et d’autre de la Réforme : la vie religieuse dans le Pays de Vaud (1450-1550) » (with Bernard Andenmatten and Karine Crousaz).|
